@@ -6,7 +6,7 @@ import {
   Box,
   Typography,
 } from '@mui/material';
-import { TaskCreate } from '../types';
+import TaskCreate from '../types';
 
 interface TaskFormProps {
   onCreateTask: (task: TaskCreate) => void;

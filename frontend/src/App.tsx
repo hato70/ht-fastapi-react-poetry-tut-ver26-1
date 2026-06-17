@@ -6,7 +6,8 @@ import {
   Alert,
   CircularProgress,
 } from '@mui/material';
-import { Task, TaskCreate } from './types';
+import   Task  from '../src/types/index';
+import   TaskCreate  from '../src/types/index2';
 import { taskAPI } from './services/api';
 import TaskForm from './components/TaskForm';
 import TaskList from './components/TaskList';

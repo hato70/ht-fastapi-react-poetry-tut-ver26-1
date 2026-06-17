@@ -1,4 +1,4 @@
-export interface Task {
+export default interface Task {
   id: string;
   title: string;
   description?: string;
@@ -6,7 +6,7 @@ export interface Task {
   created_at: string;
 }
 
-export interface TaskCreate {
-  title: string;
-  description?: string;
-}
+// export default interface TaskCreate {
+//   title: string;
+//   description?: string;
+// }

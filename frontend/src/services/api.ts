@@ -1,5 +1,6 @@
 import axios from 'axios';
-import { Task, TaskCreate } from '../types';
+import   Task  from '../types/index';
+import   TaskCreate  from '../types/index2';
 
 const API_BASE_URL = '/api';
 
