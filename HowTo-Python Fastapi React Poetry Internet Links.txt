@@ -1,0 +1,1 @@
+https://python.plainenglish.io/deploying-a-fastapi-service-in-minutes-for-free-vercel-choreo-and-render-0527cd57b75b
